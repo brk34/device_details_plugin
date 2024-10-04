@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
-import 'package:device_details_plugin/device_details_plugin.dart';
+import 'package:device_details_flutter/device_details_plugin.dart';
 
 void main() => runApp(MyApp());
 
